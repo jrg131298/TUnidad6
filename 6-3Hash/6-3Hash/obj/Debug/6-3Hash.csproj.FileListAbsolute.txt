@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\6-3Hash\6-3Hash\bin\Debug\6-3Hash.exe.config
+C:\Users\DELL\source\repos\6-3Hash\6-3Hash\bin\Debug\6-3Hash.exe
+C:\Users\DELL\source\repos\6-3Hash\6-3Hash\bin\Debug\6-3Hash.pdb
+C:\Users\DELL\source\repos\6-3Hash\6-3Hash\obj\Debug\6-3Hash.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\6-3Hash\6-3Hash\obj\Debug\6-3Hash.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\6-3Hash\6-3Hash\obj\Debug\6-3Hash.exe
+C:\Users\DELL\source\repos\6-3Hash\6-3Hash\obj\Debug\6-3Hash.pdb

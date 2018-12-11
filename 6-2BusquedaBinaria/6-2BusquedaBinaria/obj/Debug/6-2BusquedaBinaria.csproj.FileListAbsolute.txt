@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\6-2BusquedaBinaria\6-2BusquedaBinaria\bin\Debug\6-2BusquedaBinaria.exe.config
+C:\Users\DELL\source\repos\6-2BusquedaBinaria\6-2BusquedaBinaria\bin\Debug\6-2BusquedaBinaria.exe
+C:\Users\DELL\source\repos\6-2BusquedaBinaria\6-2BusquedaBinaria\bin\Debug\6-2BusquedaBinaria.pdb
+C:\Users\DELL\source\repos\6-2BusquedaBinaria\6-2BusquedaBinaria\obj\Debug\6-2BusquedaBinaria.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\6-2BusquedaBinaria\6-2BusquedaBinaria\obj\Debug\6-2BusquedaBinaria.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\6-2BusquedaBinaria\6-2BusquedaBinaria\obj\Debug\6-2BusquedaBinaria.exe
+C:\Users\DELL\source\repos\6-2BusquedaBinaria\6-2BusquedaBinaria\obj\Debug\6-2BusquedaBinaria.pdb
